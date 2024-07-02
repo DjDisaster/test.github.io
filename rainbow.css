@@ -161,5 +161,6 @@ body {
   }
 
   .rainbow-text {
+    font-size: 50px;
     animation: rainbow-text 1s infinite;
   }
